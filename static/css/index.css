@@ -1,0 +1,35 @@
+body{
+    background: url(../img/fondo.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 25%;
+    padding: 0;
+}
+
+.modal-content{
+    background-color: antiquewhite;
+    opacity: .85;
+    padding: 0 20px;
+    box-shadow: 0px 0px 3px #848484;
+}
+
+.user-img{
+    margin-top: -59px;
+    margin-bottom: 40px;
+}
+.user-img img{
+    width: 105px;
+    height: 105px;
+    box-shadow: 0px 0px 3px #848484 ;
+    border-radius: 50%;
+
+}
+.form-grup input{
+    height: 42px;
+    font-size: 18px;
+    border: 5;
+    padding-left: 50px;
+
+}
